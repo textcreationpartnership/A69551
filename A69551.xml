@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Behaviour, last words, and execution of the five grand Jesuits and popish priests viz. Thomas White, alias Whitebread ... William Harcourt ... John Fenwick ... John Gavern, alias Gawen ... &amp; Anthony Turner ... who all justly suffered at Tyburn on the 20th of June, 1679 ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69551</idno>
+            <idno type="STC">Wing B1708A</idno>
+            <idno type="STC">ESTC R19417</idno>
+            <idno type="EEBO-CITATION">12114884</idno>
+            <idno type="OCLC">ocm 12114884</idno>
+            <idno type="VID">54273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 857:24 or 1627:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Behaviour, last words, and execution of the five grand Jesuits and popish priests viz. Thomas White, alias Whitebread ... William Harcourt ... John Fenwick ... John Gavern, alias Gawen ... &amp; Anthony Turner ... who all justly suffered at Tyburn on the 20th of June, 1679 ...</title>
+               </titleStmt>
+               <extent>8 [i.e. 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>This work is available on reels 857:24 and 1627:7.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitbread, Thomas, 1618-1679.</term>
+               <term>Turner, Anthony, 1628 or 9-1679.</term>
+               <term>Gawen, John, 1640-1679.</term>
+               <term>Barrow, William, 1610-1679.</term>
+               <term>Caldwell, John, 1628-1679.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:54273:1"/>
+            <head>THE Behaviour, laſt Words, and Execution OF THE Five grand JESUITS AND POPISH PRIESTS: VIZ.
+<list>
+                  <item>
+                     <hi>Thomas White,</hi> alias <hi>Whitebread,</hi> Provincial of the Jeſuits throughout <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and pretended ARCH-BISHOP of <hi>Canterbury.</hi>
+                  </item>
+                  <item>
+                     <hi>William Harcourt,</hi>—Nominal Rector of <hi>London.</hi>
+                  </item>
+                  <item>
+                     <hi>John Fenwick,</hi> —Procurator of the Jeſuits.</item>
+                  <item>
+                     <hi>John Gavern,</hi> alias <hi>Gawen,</hi> &amp; <hi>Anthony Turner,</hi> Two Jeſuits deeply concern'd in the PLOT.</item>
+               </list>
+            </head>
+            <head type="sub">WHO All juſtly Suffered at <hi>TYB<g ref="char:V">Ʋ</g>RN</hi> on the 20th of <hi>June,</hi> 1679. (Not for being either Jeſuits, Prieſts, or Papiſts, but) For their apparent Crimes of HIGH-TREASON againſt the Life of the King, and reſolv'd Deſignes of deſtroying and ſubverting the eſtabliſht Government and Religion of <hi>ENGLAND.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <hi>Sera, ſed certa venit vindicta Dei.</hi>
+               </q>
+            </epigraph>
+            <p>THe Five before-mentioned notorious Criminals, after a long Confinement, being on the 13th of this inſtant <hi>June</hi> brought to their Tryals; and upon full and demonſtrative Evidence, found guilty of the horrid Treaſons they ſtood charged with, were for the ſame, on <hi>Saturday</hi> laſt, ſentenced to be Drawn, Hang'd, and Quartered; which this day was accordingly Executed.</p>
+            <p>We ſhall not here repeat the helliſh Treaſons proved againſt them, as having not onely reſolv'd upon, but ſuborn'd perſons to attempt the Sacred Life of his moſt gracious Majeſty, our lawful and undoubted
+<pb n="2" facs="tcp:54273:2"/>Soveraign; There having already been publiſhed a ſmall Book in Quar<g ref="char:EOLhyphen"/>to, giving the World ſome brief (but as to the matter of Fact, moſt true) Account thereof: Though ſince there hath privately crept abroad a Sheet in Folio, pretending the ſame; but in truth not onely plagiari<g ref="char:EOLhyphen"/>zing the very words of that former Narrative, but impudently prejudi<g ref="char:EOLhyphen"/>cing Truth, and that more full and exact Copy of the Proceedings a<g ref="char:EOLhyphen"/>gainſt them in due time to be emitted, by ſuggeſting as if that Triobo<g ref="char:EOLhyphen"/>lary Pamphlet were a full and exact Account of their Tryals: whereas <hi>That</hi> is onely to be expected from the Pains and Care of Authority.</p>
+            <p>It will be enough for us to ſay, That Four of theſe moſt dangerous Malefactors were plainly prov'd to have agreed upon, and under their reſpective hands, at the grand Conſultation of Jeſuits, (held at the White-horſe-Tavern in the <hi>Strand, April,</hi> the 24th, 1678, and thence adjourned to <hi>Wildhouſe,</hi> and ſeveral other leſſer Colonies, as they call'd them) to murther the King, as the onely Expedient to carry on their damnable Deſignes of ſubverting the Covernment, and introducing Popiſh Superſtitions: and that in purſuance thereof, they had hired ſe<g ref="char:EOLhyphen"/>veral perſons to effect the ſaid horrid Murther, as <hi>Grove</hi> and <hi>Pickering</hi> to ſtabb or ſhoot him; <hi>Wakeman</hi> to poyſon him; Four <hi>Iriſh</hi> Ruffians to aſſaſſinate him at <hi>Windſor,</hi> &amp;c.</p>
+            <p>Nay farther, it was made appear, that they had prepared received, and diſpoſed of Commiſſions to raiſe Forces, and would have had fifty thouſand Men in Arms, to have carried on this bloody deſign; and the better to colour the ſame, would at firſt have caſt the <hi>odium</hi> of the Mur<g ref="char:EOLhyphen"/>ther on the <hi>Presbyterians,</hi> that by dividing and weakning Proteſtants in particular Parties, they might have been better enabled to deſtroy them all in general. This was proved to have been declared at a Con<g ref="char:EOLhyphen"/>ſultation of Popiſh Prieſts in <hi>Staffordſhire.</hi> And moreover, that by a Letter directed thither, bearing date the very ſame night Sir <hi>Edmund<g ref="char:EOLhyphen"/>bury Godfrey</hi> was Murthered, they had there news of his being killed before ever his Body was found, or the Fact diſcovered at <hi>London.</hi> And in this intrigue in the Country, the fifth Jeſuite was proved to be concerned, who was likewiſe violently preſumed to have been preſent at the aforeſaid Conſult at <hi>London.</hi> becauſe his name was thereunto ſub<g ref="char:EOLhyphen"/>ſcribed, though the Witneſſes not particularly remembring to have ſeen him write the ſame, did conſcienciouſly forbear, directly and poſitive<g ref="char:EOLhyphen"/>ly to charge him therewith.</p>
+            <p>After they were Condemned, they were kept ſeperately in diſtinct Chambers in the <hi>Preſs-yard, Newgate,</hi> but their friends had (by leave of the Court) liberty to come to them in the preſence of a Keeper. With a confidence uſual to thoſe of their perſwaſion, and eſpecially of their Society, they appeared outwardly not much concerned with the thoughts of death, but rather ſeem'd to indulge themſelves; and indeed what preparation for death can we expect from thoſe, who think Treaſon Me<g ref="char:EOLhyphen"/>rit, and that whoever dies for promoting the Intereſt of their Church, though by the blackeſt and moſt barbarous, and bloody means, ſhall yet be Kalendar'd for a Saint, or at leaſt a Martyr?</p>
+            <pb n="3" facs="tcp:54273:2"/>
+            <p>Theſe perſons being of the moſt peſtilent Fraternity, who blaſphe<g ref="char:EOLhyphen"/>mouſly call themſelves, <hi>The Society of Jeſus,</hi> it may not be improper to give the Reader ſome ſhort account of their Original, and the Pranks they have formerly plaid abroad in other Kingdoms, to let the World ſee, That Treaſon, and the contrivance of Diſturbances to Civil States, is no new or ſtrange thing, but a natural, and as it were, eſſential property of a Jeſuite.</p>
+            <p>Their firſt Founder was <hi>Ignatius Loyola,</hi> a raſkally Spaniſh Souldier, born in <hi>Biſcay,</hi> about the year 1491; who being maim'd in the Wars, and unable through poverty, to proſecute his wonted Debaucheries, in a melancholly mood, turn'd Superſtitious Zealot, and getting together certain ſeduced followers, offered his ſervice to the Pope, who find<g ref="char:EOLhyphen"/>ing his power ſhockt and endangered by the attacks of <hi>Luther,</hi> and other wreſtlers for Reformation, was glad to accept of their ſervice at a dead lift: for ſo ſaith <hi>Maffaeus</hi> a Jeſuite, in his ſecond Book of the Life of <hi>Loyola, Cap.</hi> 12. — When <hi>Ignatius,</hi> by the means of Cardinal <hi>Contarenus,</hi> offered the Pope the form of their Order, wherein (a<g ref="char:EOLhyphen"/>mongſt other things) it was contained, <hi>That to the other three ſolemn Vows of Poverty, Chaſtity, and Obedience, common to other Orders, they would adde a fourth ſpecial Vow, That whitherſoever it ſhould pleaſe the Pope to ſend them, without grudging, delay, or reward, they would readily go. As ſoon</hi> (I ſay) <hi>as the Pope had viewed this Propoſal, he ſaid, Sure theſe men are ſtirred up by ſpecial Providence, at ſuch a time to be an help to the afflicted State of the Church!</hi>
+            </p>
+            <p>On this account, in the year 1540, this Order was confirmed by the name of the Society of Jeſus, (for certain blaſphemous reaſons by them alleadged, which I am aſhamed to mention) by Pope <hi>Paul</hi> the third; whom all Hiſtorians record to have been a Conjurer, and one that pro<g ref="char:EOLhyphen"/>ſtituted his own Siſter formerly, to obtain a Cardinals Cap; poyſon'd his own Mother, and Nephew, that he might enjoy all the Eſtate of the Family of the <hi>Farneſe</hi>'s; and a thouſand other Villainies.</p>
+            <p>From ſuch an Author, and ſuch an Eſtabliſher, ſprang up the Society of Jeſuits; whoſe firſt Promoter, limping <hi>Ignatius,</hi> is recorded to have given for his Motto, theſe words: <hi>Cavete vobis Principes; Kings and Princes, look to your ſelves!</hi> and indeed they have had reaſon: For two of the <hi>French</hi> Kings have been ſince murthered by their Inſtiga<g ref="char:EOLhyphen"/>tion; not to mention the Prince of <hi>Orange,</hi> kill'd by one of their Pu<g ref="char:EOLhyphen"/>pils. Moſt Kingdoms and States in <hi>Chriſtendom</hi> have been by them Embroil'd, inſomuch that they have been for their Villanies baniſht the Kingdom of <hi>France,</hi> and the Republique of <hi>Venice;</hi> though in both places they have inſinuated themſelves. And the beſt way of preven<g ref="char:EOLhyphen"/>ting their Incurſions, is that of <hi>Sweden;</hi> where, by Law, if any of them are found, they are forthwith to be Guelt: which has hitherto clear'd the Realm of them. Nor ever will <hi>Europe</hi> be at quiet, till theſe pe<g ref="char:EOLhyphen"/>ſtilent reſtleſs Vermine are (like the proud pragmatical Knights-Tem<g ref="char:EOLhyphen"/>plers of old) by the general Conſent of Princes ſuppreſſed, as 'tis their Intereſt whether Papiſts or Proteſtants, to do.</p>
+            <gap reason="missing" extent="4 pages">
+               <desc>〈4 pages missing〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:54273:3" rendition="simple:additions"/>
+            <p>On Saturday the 14th inſtant, there was another of theſe Plotters, a Councellor of the Temple tryed, found guilty, and Condemned, but he, in reguard of the multiplicity of his buſineſs, and the many perſons he was intereſted with, whoſe Writings and Concerns being in his hands, it might have been no ſmall prejudice to them in their Eſtates, if he ſhould ſo ſuddenly have been cut off, and therefore on that ac<g ref="char:EOLhyphen"/>count he obtained a Reprieve for ſome few days.</p>
+            <p>The other five, on this preſent Friday, <hi>June</hi> the 20th. were drawn on three Sleds, each with fower Horſes, about half an hour after nine a clock in the morning from <hi>Newgate;</hi> Mr. <hi>Harcoat</hi> and Mr. <hi>Whitebread</hi> went in the firſt Sled, Mr. <hi>Gawen,</hi> (who as we are credibly informed, was a Tailors Son in <hi>Covent Garden</hi>) and Mr. <hi>Turner</hi> in the next; and Fa<g ref="char:EOLhyphen"/>ther <hi>Fenwick</hi> in the laſt by himſelf. The firſt two were in Mourning, the others in colour'd Coats. They all behaved themſelves very reſolutely in their paſſage, and onely one of them had a Book in his hand. The Guard was extraordinary, and ſo was the concourſe of people; and if they made ſuch a grand diſturbance dying, what diſmal effects muſt we think they would have made had they lived, and their Helliſh Plot taken effect.</p>
+            <p>As for Mr. <hi>Fenwick,</hi> he was a <hi>Northumberland man,</hi> and it was par<g ref="char:EOLhyphen"/>ticularly obſerved, that ſeveral Quakers, during the time of his con<g ref="char:EOLhyphen"/>finement, came to inquire after him; and there is good reaſon to believe, that he had not infrequently been an eminent <hi>Holderforth</hi> amongſt them.</p>
+            <p>When they came to <hi>Tyburn, Harcoat</hi> and <hi>Whitebread</hi> were firſt tyed up, then the next two <hi>Gawen</hi> and <hi>Turner;</hi> they were all four turned off together: and after that, Mr. <hi>Fenwick</hi> ſuffered alone. None of them ſaid any thing conſiderable at the place of Execution, but with the uſual aſſurance of that Faction, died without any publick Confeſ<g ref="char:EOLhyphen"/>ſion of their Crimes, ſeeming onely to mutter certain private Prayers to themſelves, and ſo were wafted to a dubious Eternity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
